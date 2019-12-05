@@ -1,11 +1,10 @@
 {
-  "posts": [
+  "todos": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
+      "description":"Das hier ist nur ein kleienr Test!",
+      "done",false
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
